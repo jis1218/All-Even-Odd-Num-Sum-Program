@@ -1,11 +1,14 @@
 # SumCalc
 Sum of all num, odd num and even num
 
-''' java
+# SumCalc
+Sum of all num, odd num and even num
 
-public class AlgoMain {
+```java
 
-	public static void main(String[] args) {
+	public class AlgoMain {
+
+	 public static void main(String[] args) {
 
 		AlgoMain algo = new AlgoMain();
 
@@ -36,6 +39,6 @@ public class AlgoMain {
 		long total = num*num;
 
 		return total;
+		}
 	}
-}
 '''
