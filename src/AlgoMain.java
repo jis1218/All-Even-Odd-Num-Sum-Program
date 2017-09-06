@@ -7,10 +7,20 @@ public class AlgoMain {
 		
 		long evenResult = algo.even(100L);
 		long oddResult = algo.odd(4L);
+		long allResult = algo.all(100L);
 		System.out.println(evenResult);
 		System.out.println(oddResult);
+		System.out.println(allResult);
 		
 		
+	}
+	
+	public long all(long max){
+		
+		long total = max*(max+1)/2;
+		
+		return total;
+				
 	}
 	
 	public long even(long max){
