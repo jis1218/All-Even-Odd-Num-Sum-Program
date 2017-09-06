@@ -1,9 +1,6 @@
 # SumCalc
 Sum of all num, odd num and even num
 
-# SumCalc
-Sum of all num, odd num and even num
-
 ```java
 
 	public class AlgoMain {
